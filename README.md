@@ -1,8 +1,8 @@
 # Make the AI Judge Feel Proud — A Family Scene
 
-[![make.fun competition](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/badge)](https://make.fun/competitions/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
-[![make.fun entry](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/entry-badge)](https://make.fun/competitions/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
-[![make.fun leaderboard](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/leaderboard-badge)](https://make.fun/competitions/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/leaderboard)
+[![make.fun · u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2?utm_source=github&utm_medium=readme&utm_campaign=u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+[![rank](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/ruri08219/ai-judge-feel-proud-family-scene-shino/rank.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+[![reward](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/ruri08219/ai-judge-feel-proud-family-scene-shino/reward.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2?utm_source=github&utm_medium=readme&utm_campaign=u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
 
 Entry for the make.fun competition
 [Make the AI Judge Feel Proud: A Family Scene](https://make.fun/competitions/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2).
