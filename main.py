@@ -13,6 +13,7 @@ ENTRY = (
 )
 
 MAX_CHARS = 280
+MAX_BYTES = 1120  # 280 chars x 4 bytes max per UTF-8 char
 
 
 def validate(text):
@@ -24,6 +25,15 @@ def validate(text):
     if len(text.splitlines()) > 2:
         return False
     if any(ord(ch) < 0x20 and ch not in "\n" for ch in text):
+        return False
+    # Prove UTF-8 encodability (a lone surrogate fails here) and bound
+    # the encoded byte length, so the write in main() cannot fail or
+    # silently exceed the gate.
+    try:
+        encoded = text.encode("utf-8")
+    except UnicodeEncodeError:
+        return False
+    if len(encoded) > MAX_BYTES:
         return False
     return True
 
